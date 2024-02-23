@@ -40,7 +40,7 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="https://media0.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif"  />
+<img align="right" height="250" src="https://media0.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif"  />
 
 ###
 
