@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Eu sou Wendel, um entusiasta da tecnologia e apaixonado por desenvolvimento de software e inovação. Atualmente, estou explorando diversos campos da ciência da computação, desde aprendizado de máquina até desenvolvimento web.<br><br>🌱 Atualmente, estou aprendendo Java Spring Boot e inteligencia artificial.<br><br>💼 Estou buscando oportunidades na área de Desenvolvimento Web.<br><br>🔭 Estou sempre explorando novas tecnologias e frameworks para aprimorar minhas habilidades.</p>
+<p align="left">Eu sou Wendel, um entusiasta da tecnologia e apaixonado por desenvolvimento de software e inovação. Atualmente, estou explorando diversos campos da ciência da computação, desde aprendizado de máquina até desenvolvimento web.<br><br>🌱 Atualmente, estou aprendendo Java Spring Boot e um pouco sobre Data Science.<br><br>💼 Estou buscando oportunidades na área de Desenvolvimento Web.<br><br>🔭 Estou sempre explorando novas tecnologias e frameworks para aprimorar minhas habilidades.</p>
 
 
 
