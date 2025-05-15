@@ -8,9 +8,16 @@
 
 ###
 
-<p align="left">Eu sou Wendel, um entusiasta da tecnologia e apaixonado por desenvolvimento de software e inovação. Atualmente, estou explorando diversos campos da ciência da computação, desde aprendizado de máquina até desenvolvimento web.<br><br>🌱 Atualmente, estou aprendendo Java Spring Boot e um pouco sobre Data Science.<br><br>💼 Estou buscando oportunidades na área de Desenvolvimento Web.<br><br>🔭 Estou sempre explorando novas tecnologias e frameworks para aprimorar minhas habilidades.</p>
+<p align="left">
+Eu sou Wendel, um entusiasta da tecnologia e apaixonado por desenvolvimento de software e inovação.  
+Atualmente, estou explorando diversos campos da ciência da computação, com foco em desenvolvimento web e backend.<br><br>
 
+🌱 Atualmente, estou aprendendo Node.js/Deno, Rust, Go, Svelte/SvelteKit e TypeScript.<br><br>
 
+💼 Estou buscando oportunidades na área de Desenvolvimento Web.<br><br>
+
+🔭 Estou sempre explorando novas tecnologias e frameworks para aprimorar minhas habilidades.
+</p>
 
 ###
 
@@ -19,7 +26,7 @@
 ###
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img width="12" />
@@ -70,5 +77,6 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
 </div>
+
 
 ###
